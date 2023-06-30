@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JRonk615/jronk615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br> -->
 <!-- 🌱 I’m currently learning about JavaScript
 <br> -->
-<a href="https://www.linkedin.com/in/saromazzotta/" target="_blank">  My LinkedIn 
+<a href="https://www.linkedin.com/in/jordan-ronk-18b475254/" target="_blank">  My LinkedIn 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saromazzotta&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/Saromazzotta/github-readme-stats)
 
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 <!-- 
 < <img align="left" alt="Ruby" width="30 height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" /> -->
 
-[linkedin]: https://www.linkedin.com/in/Saromazzotta/
+[linkedin]: https://www.linkedin.com/in/jordan-ronk-18b475254/
